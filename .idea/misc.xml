@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SSCC-HIGHEND/uiux/UI_Project/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/Users/SSCC-HIGHEND/uiux/UI_Project/app/src/main/res/layout/activity_tts.xml" value="0.2046875" />
+        <entry key="..\:/Users/Son SeungWoo/AndroidStudioProjects/UI_Projects/app/src/main/res/layout/activity_word_book.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_login.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_show_word_list.xml" value="0.22" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_sing_up.xml" value="0.22" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_word_book.xml" value="0.22" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_my_word_list.xml" value="0.22" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_word_list.xml" value="0.22" />
+        <entry key="..\:/Users/fuxxk/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_word_modification_dialog.xml" value="0.159375" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_my_note.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_show_word_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_sing_up.xml" value="0.16" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/activity_word_book.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_my_word_list.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_word_input_dialog.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/UI_Project/app/src/main/res/layout/custom_word_modification_dialog.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/new_UI/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sons6/AndroidStudioProjects/new_UI/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
